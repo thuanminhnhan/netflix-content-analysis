@@ -94,4 +94,4 @@ The Power BI dashboard includes:
 
 ## Author
 
-Data Analytics Portfolio Project
+[Thuan Minh Nhan](https://github.com/thuanminhnhan)
