@@ -62,6 +62,8 @@ The Power BI dashboard includes:
 - **Column Chart:** Number of titles added to Netflix by year.
 - **Bar Chart:** Top 10 countries by title count.
 
+![Netflix Power BI Dashboard](images/netflix_dashboard.png)
+
 ## Key Business Insights
 
 1. **Content Distribution:** Movies account for approximately 69.62% of the catalog (6,131 titles), while TV Shows account for approximately 30.38% (2,676 titles). This indicates that Movies make up the larger share of the dataset.
