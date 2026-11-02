@@ -62,7 +62,7 @@ The Power BI dashboard includes:
 - **Column Chart:** Number of titles added to Netflix by year.
 - **Bar Chart:** Top 10 countries by title count.
 
-![Netflix Power BI Dashboard](images/netflix_dashboard.png)
+![Netflix Power BI Dashboard](imagesnetflix_dashboard.png)
 
 ## Key Business Insights
 
